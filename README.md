@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/expense-sharing-app.git
+git clone https://github.com/gpriyanshu15/convin-assignment.git 
 cd expense-sharing-app
 Step 2: Install Dependencies
 Install the required dependencies:
